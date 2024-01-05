@@ -7,5 +7,5 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## Login
 
-Email: `user@nextmail.com`
-Password: `123456`
+- Email: `user@nextmail.com`
+- Password: `123456`
